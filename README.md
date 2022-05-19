@@ -1,5 +1,6 @@
 # SolarBuilder Preview
 
+![PIC OF SOLAR](https://user-images.githubusercontent.com/98204110/169246754-4db7e9ba-10b5-47c8-acf6-99d707da768b.png)
 
 # ***Features***
 
@@ -26,8 +27,6 @@ Anti Virutal Machine
 Anti Debug
 
 Customization
-
-Add a custom icon
 
 Custom exe name
 
